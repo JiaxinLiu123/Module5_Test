@@ -1,4 +1,4 @@
 ## Contributors:
--Ethan Risser user: elr243
+-Ethan Risser Username: elr243
 
--Demetrius Tsoukaladakis   User: ddt77
+-Demetrius Tsoukaladakis Username: ddt77
